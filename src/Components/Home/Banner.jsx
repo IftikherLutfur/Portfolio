@@ -1,3 +1,6 @@
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaSquareXTwitter } from "react-icons/fa6";
+import { IoLogoFacebook } from "react-icons/io";
 
 const Banner = () => {
     return (
@@ -14,10 +17,11 @@ const Banner = () => {
                 </button>
 
                 <div className="flex mt-12 gap-14">
-                    <a href="https://www.facebook.com/Iftikherlutfur">Facebook</a>
-                    <a href="https://github.com/IftikherLutfur">GitHub</a>
-                    <a href="https://www.linkedin.com/in/iftikher-lutfur-094a41256/">Linked In</a>
-                    <a href="https://x.com/iftikher2004">X</a>
+                    <a href="https://www.facebook.com/Iftikherlutfur"><IoLogoFacebook/></a>
+                    <a href="https://github.com/IftikherLutfur"><FaGithub/></a>
+                    <a href="https://www.linkedin.com/in/iftikher-lutfur-094a41256/"><FaLinkedin />
+                    </a>
+                    <a href="https://x.com/iftikher2004"><FaSquareXTwitter/></a>
                 </div>
             </div>
             </div> 
