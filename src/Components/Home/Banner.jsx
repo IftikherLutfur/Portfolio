@@ -8,16 +8,16 @@ const Banner = () => {
             </div>
             <div>
                 <h1 className="text-4xl font-bold text-white mt-16">I am a Mern Stack Web Developer</h1>
-                <p className=" text-white text-xl font-bold mb-5">Hi this is Iftikher Lutfur Abdullah . I am a mern stack web developer. I've learned several technologies like JavaScript , React.js , Express.js , MongoDB , Firebase , JWT </p>
+                <p className=" text-white text-xl font-bold mb-5">Hi this is Iftikher Lutfur Abdullah . I am a mern stack web developer. I Have learned several technologies like JavaScript , React.js , Express.js , MongoDB , Firebase , JWT </p>
                 <button>
                 <a className="border-2 bg-green-400 py-2 px-2 font-bold rounded-md mt-4" href="">Download CV</a>
                 </button>
 
                 <div className="flex mt-12 gap-14">
-                    <a href="">Facebook</a>
-                    <a href="">GitHub</a>
-                    <a href="">Linked In</a>
-                    <a href="">Gmail</a>
+                    <a href="https://www.facebook.com/Iftikherlutfur">Facebook</a>
+                    <a href="https://github.com/IftikherLutfur">GitHub</a>
+                    <a href="https://www.linkedin.com/in/iftikher-lutfur-094a41256/">Linked In</a>
+                    <a href="https://x.com/iftikher2004">X</a>
                 </div>
             </div>
             </div> 
