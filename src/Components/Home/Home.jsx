@@ -1,3 +1,4 @@
+import EduandExp from "../../Edu&Exp/EduandExp";
 import Services from "../Services/Services";
 import Banner from "./Banner";
 
@@ -5,7 +6,8 @@ const Home = () => {
     return (
         <div>
            <Banner/>
-           <Services/> 
+           <EduandExp></EduandExp> 
+           <Services/>
         </div>
     );
 };
