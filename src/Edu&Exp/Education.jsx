@@ -3,7 +3,7 @@ const Education = () => {
     return (
         <div>
             <h1 className="text-2xl font-bold">EDUCATION</h1>
-            <hr className="my-4" />
+            <hr className="my-3 outline-double" />
            <div>
            <h1 className="text-xl font-bold ">Diploma in Computer Science and Technology (CST) </h1>
            <p className="font-bold"><em>Habiganj Polytechnic Institute</em></p>

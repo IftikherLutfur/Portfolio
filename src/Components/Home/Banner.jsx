@@ -26,12 +26,12 @@ const Banner = () => {
             </div>
             </div>
             <div className="border-2 text-2xl flex text-center justify-between py-2 px-3">
-                <img className="w-[100px] h-24" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="" />
-                <img className="w-[100px] h-24" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="" />
-                <img className="w-[100px] h-24" src="https://www.shutterstock.com/image-vector/node-js-framework-web-development-260nw-1740811286.jpg" alt="" />
-                <img className="w-[100px] h-24" src="https://aglowiditsolutions.com/wp-content/uploads/2018/12/ExpressJS.png" alt="" />
-                <img className="w-[100px] h-24" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="" />
-                <img className="w-[100px] h-24" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="" />
+                <img className="w-[80px] h-20" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="" />
+                <img className="w-[80px] h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="" />
+                <img className="w-[80px] h-20" src="https://www.shutterstock.com/image-vector/node-js-framework-web-development-260nw-1740811286.jpg" alt="" />
+                <img className="w-[80px] h-20" src="https://aglowiditsolutions.com/wp-content/uploads/2018/12/ExpressJS.png" alt="" />
+                <img className="w-[80px] h-20" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="" />
+                <img className="w-[80px] h-20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuawUuQCcq6fD-KpdmL4QixUOyqQqdrVNIDg&s" alt="" />
                 
                 
                 </div> 
