@@ -9,10 +9,10 @@ const Services = () => {
       })
     return (
         <div>
-            <h1 className="text-2xl font-bold text-center mt-5">THE SERVICES I PROVIDED</h1>
+            <h1 className="text-2xl font-bold text-center mt-5">Services I Provide</h1>
             <div ref={sliderRef} className="keen-slider">
 
-      <div className="keen-slider__slide number-slide1 border-[5px] shadow-lg border-orange-500 bg-black text-white px-8 py-20 rounded-md m-4">
+      <div className="keen-slider__slide number-slide1 border-[2px] shadow-lg  bg-sky-600 text-white px-8 py-20 rounded-md m-4">
         <h1 className="text-xl font-bold text-center">Full Stack Web Development <small>(MERN-Stack)</small></h1>
         <li>Design and development of complete web applications using MongoDB, Express.js, React.js, and Node.js.</li>
         <li>Custom web solutions tailored to meet client needs, from user interfaces to backend architecture.</li>

@@ -1,8 +1,9 @@
+import { GiGraduateCap } from "react-icons/gi";
 
 const Education = () => {
     return (
         <div>
-            <h1 className="text-2xl font-bold">EDUCATION</h1>
+            <h1 className="text-2xl font-bold flex items-center gap-1"><GiGraduateCap/>EDUCATION</h1>
             <hr className="my-3 outline-double" />
            <div>
            <h1 className="text-xl font-bold ">Diploma in Computer Science and Technology (CST) </h1>

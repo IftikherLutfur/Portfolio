@@ -1,8 +1,9 @@
+import { IoBag } from "react-icons/io5";
 
 const Experience = () => {
     return (
         <div>
-            <h1 className="text-2xl font-bold">EXPERIENCE</h1>
+            <h1 className="text-2xl font-bold flex item-center gap-1"><IoBag />EXPERIENCE</h1>
             <hr className="my-3 outline-double" />
             <div>
              <h1 className="text-xl font-bold">Junior Web Developer</h1>
