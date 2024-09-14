@@ -1,6 +1,9 @@
 import EduandExp from "../../Edu&Exp/EduandExp";
 import Details from "../Details/Details";
+import GetInTouch from "../GetInTouch";
 import Services from "../Services/Services";
+import Slider from "../Slider/Slider";
+
 import Banner from "./Banner";
 
 const Home = () => {
@@ -9,7 +12,8 @@ const Home = () => {
            <Banner/>
            <Details/>
            <EduandExp></EduandExp> 
-           <Services/>
+           <Slider/>
+           <GetInTouch/>
         </div>
     );
 };

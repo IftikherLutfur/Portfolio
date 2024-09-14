@@ -7,7 +7,7 @@ const Banner = () => {
         <div>
            <div className="lg:flex gap-20 px-10 py-5 mb-3">
             <div className="lg:w-[600px]">
-                <img className="rounded-full"  src="https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/454278022_1942154246246644_1165266204321906823_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=r2U6lq5Il7oQ7kNvgE-jj_8&_nc_ht=scontent.fdac20-1.fna&oh=00_AYC44PGU3TSaFzZ3-UjNjuJNihSM5VZawQr5P01M1IJhPA&oe=66D6A26C" alt="" />
+                <img className="rounded-full"  src="https://i.ibb.co.com/cx4JtLw/Background-2024-09-14-T144525-236.png" alt="" />
             </div>
             <div>
                 <h1 className="text-4xl font-bold text-white mt-16">I am a Mern Stack Web Developer</h1>
